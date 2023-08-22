@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Fri, 18 Aug 2023 18:40:02 GMT and should not be manually modified.
+This log was last generated on Tue, 22 Aug 2023 20:18:50 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 14.0.3-0
+
+Tue, 22 Aug 2023 20:18:50 GMT
+
+### Changes
+
+- Extend proactive token refresh to client_credentials #6102 (rgins16@gmail.com)
 
 ## 14.0.2
 

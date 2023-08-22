@@ -2,6 +2,21 @@
   "name": "@azure/msal-common",
   "entries": [
     {
+      "date": "Tue, 22 Aug 2023 20:18:50 GMT",
+      "tag": "@azure/msal-common_v14.0.3-0",
+      "version": "14.0.3-0",
+      "comments": {
+        "prerelease": [
+          {
+            "author": "rgins16@gmail.com",
+            "package": "@azure/msal-common",
+            "commit": "908e97f68b3d3732750c09c80b1bd702f98c2949",
+            "comment": "Extend proactive token refresh to client_credentials #6102"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 18 Aug 2023 18:40:02 GMT",
       "tag": "@azure/msal-common_v14.0.2",
       "version": "14.0.2",
